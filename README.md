@@ -13,7 +13,7 @@
   <img align="left" width="32px" src="images/linkedin.svg"/>
 </a>
 <a target="_blank" href="mailto:mirceacalavri@protonmail.com">
-  <img align="left" width="3px" src="images/protonmail.svg"/>
+  <img align="left" width="32px" src="images/protonmail.svg"/>
 </a>
 
 <br />
