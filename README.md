@@ -4,15 +4,15 @@
 ## Student at [POLITEHNICA University of Bucharest](https://upb.ro/en/)
 ## Bachelor of Science in [Automatic Control and Computer Science](https://upb.ro/en/faculties/the-faculty-of-automatic-control-and-computer-science/) (2022-2026)
 
-- 🌍 **Tech Explorer**
-- <img src="./images/linux.svg" width="16" height="16"/> **Linux Enthusiast** 
+- **Tech Explorer** 🌍 
+- **Linux Enthusiast** <img src="./images/linux.svg" width="24" height="24"/> 
 
 
 ### Connect with me:
 <a target="_blank" href="https://www.linkedin.com/in/mircea-cristian-calavri-57375329b/">
   <img align="left" width="32px" src="images/linkedin.svg"/>
 </a>
-<a target="_blank" href="mailto:mirceacalavri@protonmail.com">
+<a target="_blank" href="mailto:mirceacalavri@protonmail.com?subject=Contact%20Request"</a>
   <img align="left" width="32px" src="images/protonmail.svg"/>
 </a>
 
