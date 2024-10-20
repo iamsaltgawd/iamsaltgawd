@@ -5,7 +5,7 @@
 ## Bachelor of Science in [Automatic Control and Computer Science](https://upb.ro/en/faculties/the-faculty-of-automatic-control-and-computer-science/) (2022-2026)
 
 - 🌍 **Tech Explorer**
-- <img src="./images/linux.svg" alt="Tux" width="32" height="32"/> **Linux Enthusiast** 
+- <img src="./images/linux.svg" width="16" height="16"/> **Linux Enthusiast** 
 
 
 ### Connect with me:
