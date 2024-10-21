@@ -19,7 +19,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Technologies:
 <img align="left" width="32px" src="images/c.svg"/>
 <img align="left" width="32px" src="images/cpp.svg"/>
 <img align="left" width="32px" src="images/bash.svg"/>
