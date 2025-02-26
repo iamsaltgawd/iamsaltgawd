@@ -23,10 +23,8 @@
 <img align="left" width="32px" src="images/c.svg"/>
 <img align="left" width="32px" src="images/cpp.svg"/>
 <img align="left" width="32px" src="images/bash.svg"/>
-<img align="left" width="32px" src="images/latex.svg"/>
 <img align="left" width="32px" src="images/github.svg"/>
 <img align="left" width="32px" src="images/docker.svg"/>
-<img align="left" width="32px" src="images/fedora.svg"/>
 <img align="left" width="32px" src="images/ubuntu.svg"/>
 
 
