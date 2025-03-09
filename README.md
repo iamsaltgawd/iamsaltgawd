@@ -1,7 +1,7 @@
 # Hi there, I'm Mircea 👋 
 
 
-## Student at [POLITEHNICA University of Bucharest](https://upb.ro/en/)
+## Student at [National University of Science and Technology POLITEHNICA of Bucharest](https://upb.ro/en/)
 ## Bachelor of Science in [Automation and Applied Informatics](https://upb.ro/en/faculties/the-faculty-of-automatic-control-and-computer-science/) (2022-2026)
 
 - **Tech Explorer** 🌍 
